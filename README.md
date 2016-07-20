@@ -1,6 +1,7 @@
 #LPLayout
 ##继承于UICollectionViewLayout
 - 类似于轮盘一样的效果，可以上下滑动进行分页，也可以取消分页效果一直转圈
+
 ###使用方法
 ```objc
 LPLayout *layout = [[LPLayout alloc]init];
