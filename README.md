@@ -1,3 +1,4 @@
+![Logo](http://images.cnitblog.com/blog2015/497279/201505/051004316736641.png)
 #LPLayout
 ##继承于UICollectionViewLayout
 
@@ -14,4 +15,4 @@ layout.pagingStyle = LPLayoutPagingStyleSlow;
 
 ![Logo](http://ww2.sinaimg.cn/mw690/e265676egw1f606801vwpj20b40jrt9b.jpg)
 ![Mou icon](http://25.io/mou/Mou_128.png)
-![Logo](http://images.cnitblog.com/blog2015/497279/201505/051004316736641.png)
+
